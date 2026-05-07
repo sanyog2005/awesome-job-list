@@ -120,7 +120,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 
 ## Developer marketing jobs
-* Developer Marketing Jobs : (https://github.com/Infrasity-Labs/developer-marketing-jobs)
+* Developer Marketing Jobs : https://github.com/Infrasity-Labs/developer-marketing-jobs
 
 # Contributions
 
